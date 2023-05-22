@@ -1,7 +1,7 @@
 hiya~, i'm sant
 
 <h2 align="center">🌸 about me 🌸</h2>
-a passionate gamer (as most of us) - i play & break league of legends, tft, lost ark and anime games such as blue protocol, genshin impact and guilty gear: strive. i own a website https://brelshaza.com/ with tools for my favorite games such as [league of legends shops rotation][https://brelshaza.com/](https://brelshaza.com/lol/sale-rotation) or [lost ark players leaderboard](https://brelshaza.com/lostark/leaderboard)
+a passionate gamer (as most of us) - i play & break league of legends, tft, lost ark and anime games such as blue protocol, genshin impact and guilty gear: strive. i own a website https://brelshaza.com/ with tools for my favorite games such as <a href="https://brelshaza.com/lol/sale-rotation" target="_blank">league of legends shops rotation</a> or <a href="https://brelshaza.com/lostark/leaderboard" target="_blank">lost ark players leaderboard</a>
 
 <h2 align="center">🌸 technologies 🌸</h2>
 
