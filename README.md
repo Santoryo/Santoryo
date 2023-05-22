@@ -1,10 +1,14 @@
-hiya~, i'm sant
-
-<h2 align="center">🌸 about me 🌸</h2>
+<h3 align="center">🌸 hiya~, i'm sant! 🌸</h3>
 a passionate gamer (as most of us) - i play & break league of legends, tft, lost ark and anime games such as blue protocol, genshin impact and guilty gear: strive. i own a website https://brelshaza.com/ with tools for my favorite games such as <a href="https://brelshaza.com/lol/sale-rotation" target="_blank">league of legends shops rotation</a> or <a href="https://brelshaza.com/lostark/leaderboard" target="_blank">lost ark players leaderboard</a>
 
-<h2 align="center">🌸 technologies 🌸</h2>
+<h2 align="center">🌸 basic info 🌸</h2>
 
+- **name**: lucyna
+- **pronouns**: she/her
+- **birthday**: 8/24/2003
+- **commissions**: open *(hire me)*
+
+<h2 align="center">🌸 technologies 🌸</h2>
 here are listed all of those shiny, out-of-this-world softwares, libraries, technologies i use for my work (and for fun)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -25,7 +29,6 @@ here are listed all of those shiny, out-of-this-world softwares, libraries, tech
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Riot Games API](https://img.shields.io/badge/riot%20games%20api-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-
 
 
 
