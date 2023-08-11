@@ -1,12 +1,5 @@
 <h3 align="center">🌸 hiya~, i'm sant! 🌸</h3>
-a passionate gamer (as most of us) - i play & break league of legends, tft, lost ark and anime games such as blue protocol, genshin impact and guilty gear: strive. i own a website https://brelshaza.com/ with tools for my favorite games such as <a href="https://brelshaza.com/lol/sale-rotation" target="_blank">league of legends shops rotation</a> or <a href="https://brelshaza.com/lostark/leaderboard" target="_blank">lost ark players leaderboard</a>
-
-<h2 align="center">🌸 basic info 🌸</h2>
-
-- **name**: lucyna
-- **pronouns**: she/her
-- **birthday**: 8/24/2003
-- **commissions**: open *(hire me)*
+i'm giga cringe
 
 <h2 align="center">🌸 technologies 🌸</h2>
 here are listed all of those shiny, out-of-this-world softwares, libraries, technologies i use for my work (and for fun)
