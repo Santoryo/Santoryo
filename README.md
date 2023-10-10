@@ -1,7 +1,8 @@
 <h3 align="center">🌸 hiya~, i'm sant! 🌸</h3>
-i'm giga cringe
-- creator of https://sivir.gg and Blitz & Crank bot (my lil babies)
-- developer at Backyard Monsters Refitted
+i'm giga cringe <br>
+- creator of https://sivir.gg and <a href="https://sivir.gg/discord">Blitz & Crank bot</a> (my lil babies) <br>
+- developer at Backyard Monsters Refitted <br>
+- huge fan of rhythm games and arcade controllers
 
 <!--
 **Santoryo/Santoryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
