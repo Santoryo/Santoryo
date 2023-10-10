@@ -3,6 +3,7 @@ i'm giga cringe <br>
 - creator of https://sivir.gg and <a href="https://sivir.gg/discord">Blitz & Crank bot</a> (my lil babies) <br>
 - developer at Backyard Monsters Refitted <br>
 - huge fan of rhythm games and arcade controllers
+- reverse engineering is quite fun (and breaking stuff)
 
 <!--
 **Santoryo/Santoryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
