@@ -1,5 +1,7 @@
 <h3 align="center">🌸 hiya~, i'm sant! 🌸</h3>
 i'm giga cringe
+- creator of https://sivir.gg and Blitz & Crank bot (my lil babies)
+- developer at Backyard Monsters Refitted
 
 <!--
 **Santoryo/Santoryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
