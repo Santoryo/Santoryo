@@ -5,6 +5,7 @@ professional jumper <br />
 - huge fan of rhythm games and arcade controllers <br>
 - reverse engineering is quite fun (and breaking stuff) <br>
 - vtuber at free time
+- comp sci @ Lodz University of Technology, Nottingham Trent University, Hogeschool PXL-Digital
 </div>
 <br />
 
